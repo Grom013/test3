@@ -1,0 +1,47 @@
+.container {
+    margin-top: 30px;
+    width: 400px;
+    height: 180px;
+    border: 3px solid grey;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user_info {
+    margin-top: 25px;
+    max-width: 100px;
+}
+
+.img {
+    width: 80px;
+    height: 80px;
+    border: 1px solid grey;
+    border-radius: 50px;
+}
+
+.card_wrapper {
+    min-width: 215px;
+}
+
+.date_info,.equipments_info,.importance_info,.message_info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 13px;
+}
+
+.date_info {
+
+}
+
+.importance_info {
+
+}
+
+.equipments_info {
+
+}
+
+.message_info {
+
+}

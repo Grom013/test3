@@ -1,0 +1,13 @@
+.circle {
+    width: 40px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.circle:hover {
+    background: green;
+}
